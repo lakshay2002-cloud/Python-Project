@@ -67,7 +67,6 @@ for i, job_title in enumerate(job_titles):
 plt.show()
 ```
 ### Results
-![Likelihood of skills Requested in US job Postings](Images\output.png)
 <img width="622" height="472" alt="output" src="https://github.com/user-attachments/assets/3bcb5515-1bd1-4bf2-b4e7-c435535834b3" />
 
 
@@ -96,7 +95,8 @@ plt.gca().yaxis.set_major_formatter(PercentFormatter(decimals=0))
 plt.show()
  ```
 ### Results 
-![Trending](Images\output3.png)
+<img width="620" height="457" alt="output3" src="https://github.com/user-attachments/assets/d62261f5-b5d5-419b-ad3b-179b567719b7" />
+
 
 ##### Bar graph visualizing the trending top skills for data analysts in the US in 2023.
 
@@ -121,7 +121,8 @@ plt.gca().xaxis.set_major_formatter(ticks_x)
 plt.show()
 ``` 
 ### Results 
-![](Images\output4.png)
+<img width="679" height="449" alt="output4" src="https://github.com/user-attachments/assets/1856d8ae-776e-4ddf-a6ca-12887a821ca9" />
+
 
 #### Box plot visualizing the salary distributions for the top 6 data job titles.
 
@@ -152,7 +153,8 @@ plt.show()
 ```
 ### Results 
 #### Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the US:
-![](Images\output5.png)
+<img width="624" height="463" alt="output5" src="https://github.com/user-attachments/assets/86af3c23-7a4a-484d-8988-a9d0c0dee1e0" />
+
 
 ##### Two Seperate Bar Graphs visualizing the highest paid skills and most in demand skills for data analyst in the US.
 
@@ -178,7 +180,8 @@ plt.scatter(df_DA_skills_high_demand['skill_percent'], df_DA_skills_high_demand[
 plt.show()
 ```
 ## Results 
-![](Images\output6.png)
+<img width="599" height="457" alt="output6" src="https://github.com/user-attachments/assets/6a12ba77-afef-4c15-97a3-ff9238c27096" />
+
 
 #### A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US.
 ## Insights
@@ -207,7 +210,8 @@ scatter = sns.scatterplot(
 plt.show()
 ```
 ## Results 
-![](Images\output7.png)
+<img width="623" height="464" alt="output7" src="https://github.com/user-attachments/assets/3993d7f6-be23-4cf0-bd28-4f6173deca9a" />
+
 ### A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology.
 
 ## Insights:
