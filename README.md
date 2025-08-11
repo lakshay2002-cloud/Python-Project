@@ -94,3 +94,4 @@ plt.gca().yaxis.set_major_formatter(PercentFormatter(decimals=0))
 plt.show()
  ```
 ### Results 
+![Trending Top Skills](C:\Users\Lenovo\OneDrive\Documents\Projects\Luke Barousse Projects\Python Course  Data Analysis\Python Project\Images\3 output.png)
